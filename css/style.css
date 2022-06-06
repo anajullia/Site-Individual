@@ -22,7 +22,12 @@
 }
 
 .menu{
-   
+    position: absolute;
+    width: 269px;
+    height: 910px;
+    left: 0px;
+    top: 170px;   
+    background: #475047;   
 }
 
 .rodape{
